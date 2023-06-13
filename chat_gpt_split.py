@@ -87,7 +87,7 @@ WAIT_DONE  =  "Waiting is done."
 CHUNKS_DONE = "Priming of ChatGPT is done."
 
 # My own chatGPT API key
-openai.api_key = "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"
+openai.api_key = "<Your OpenAI API key goes here.>"
 
 # Keep track of the conversation
 conversation_history = []
